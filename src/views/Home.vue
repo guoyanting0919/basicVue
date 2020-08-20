@@ -1,6 +1,6 @@
 <template>
   <div id="home">
-    <h1>ad</h1>
+    <h1>index</h1>
   </div>
 </template>
 
@@ -18,6 +18,6 @@ export default {
   created() {},
   mounted() {
     console.log(process.env.VUE_APP_API);
-  }
+  },
 };
 </script>
